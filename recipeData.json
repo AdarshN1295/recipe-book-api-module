@@ -3,5 +3,9 @@
     "id" : 1,
     "name" : "candle",
     "procedure" : "melt the wax, add the fragrance with essential oils, place the wick and pour the wax in mold and wait for it , to make it strong."
-  }
+  },
+  {
+    "id" : 2,
+    "name" : "room freshner",
+    "procedure" : "fill the bottle 80% and then add 10-12 drops of any essential oil you like, and then add decorative flowers in it, shake it whenever you use them."
 ]
