@@ -3,7 +3,7 @@
     "id" : 1,
     "img_url" : "/media/candle.png",
     "name" : "candle",
-    "procedure" : "<li>melt the wax</li>, <li>add the fragrance with essential oils</li>, <li>place the wick and pour the wax in mold and wait for it </li>, <li>to make it strong.</li>"
+    "procedure" : "<li>melt the wax</li><li>add the fragrance with essential oils</li><li>place the wick and pour the wax in mold and wait for it </li><li>to make it strong.</li>"
   },
   {
     "id" : 2,
