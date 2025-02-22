@@ -16,5 +16,11 @@
     "img_url" : "/media/soap.png",
     "name" : "soap",
     "procedure" : "boil the soap base and add the natural herbs like neem, alovera etc in it, and pour it into the soap silicon mold and then let it be cool for a day."
+  },
+  {
+    "id" : 4,
+    "img_url" : "/media/paper.png",
+    "name" : "paper",
+    "procedure" : "cut the papers and rins them into water for 2-3 hours, grind that wet papers and then dip the container in it and scatter paper."
   }
 ]
