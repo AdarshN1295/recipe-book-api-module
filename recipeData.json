@@ -1,16 +1,19 @@
 [
   {
     "id" : 1,
+    "img_url" : "/media/candle.png",
     "name" : "candle",
     "procedure" : "melt the wax, add the fragrance with essential oils, place the wick and pour the wax in mold and wait for it , to make it strong."
   },
   {
     "id" : 2,
+    "img_url" : "/media/spray.png",
     "name" : "room freshner",
     "procedure" : "fill the bottle 80% and then add 10-12 drops of any essential oil you like, and then add decorative flowers in it, shake it whenever you use them."
   },
   {
     "id" : 3,
+    "img_url" : "/media/soap.png",
     "name" : "soap",
     "procedure" : "boil the soap base and add the natural herbs like neem, alovera etc in it, and pour it into the soap silicon mold and then let it be cool for a day."
   }
